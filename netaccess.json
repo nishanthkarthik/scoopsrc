@@ -1,8 +1,8 @@
 {
     "homepage": "https://github.com/nishanthkarthik/netaccess-infiauth",
     "license": "https://raw.githubusercontent.com/nishanthkarthik/netaccess-infiauth/master/LICENSE",
-    "version": "1.2.0",
-    "url": "https://github.com/nishanthkarthik/netaccess-infiauth/releases/download/v1.2.0/Release.zip",
-    "hash": "E23E4F8EC68528DDAEB484469B859A93EB17E37CE8B89783E7168C4DD9CDB69A",
+    "version": "1.2.1",
+    "url": "https://github.com/nishanthkarthik/netaccess-infiauth/releases/download/v1.2.1/Release.zip",
+    "hash": "08E6ADD50A2282F130F9F72F55A06951433890275600E079552A4DAAA304E80F",
     "bin": "netaccess.exe"
 }
